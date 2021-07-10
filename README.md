@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alexisRojas99
 - 👀 I’m interested in programming and web development
-- 🌱 I’m currently learning React + Firebase with JavaScript
+- 🌱 I’m currently learning React js + Firebase with JavaScript and Node js
 - 💞️ I’m working to collaborate on my team of University and my friends
 - 📫 How to reach me in twitter @rojasestrada_ or gmail rojas.estrada19@gmail.com
 
